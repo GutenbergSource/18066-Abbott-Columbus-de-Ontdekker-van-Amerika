@@ -4,13 +4,14 @@
 <fileDesc>
 <titleStmt>
 <title>Columbus, de Ontdekker van Amerika</title>
-<author key="Abbott, John Stevens Cabot" ref="https://viaf.org/viaf/44668604">John Stevens Cabot Abbott (1805&ndash;1877)</author>
-<respStmt><resp>Translation</resp> <name key="Geraets, J.H." ref="https://viaf.org/viaf/285991828">J. H. Geraets Jr.</name></respStmt>
-<respStmt><resp>Transcription</resp> <name>Jeroen Hellingman</name></respStmt>
+<author key="Abbott, John Stevens Cabot" ref="https://viaf.org/viaf/44668604/">John Stevens Cabot Abbott (1805&ndash;1877)</author>
+<respStmt><resp>Translation</resp> <name key="Geraets, J.H." ref="https://viaf.org/viaf/285991828/">J. H. Geraets Jr.</name></respStmt>
+<respStmt><resp>Transcription</resp> <name key="Hellingman, Jeroen">Jeroen Hellingman</name></respStmt>
 </titleStmt>
 <publicationStmt>
 <publisher>Project Gutenberg</publisher>
 <pubPlace>Urbana, Illinois, USA.</pubPlace>
+<idno type=PGSrc>18066-Abbott-Columbus-de-Ontdekker-van-Amerika</idno>
 <idno type=epub-id>urn:uuid:e0a2aabd-489f-42a9-b2a6-4243c64d69c1</idno>
 <idno type=PGclearance>20050621141813abbott</idno>
 <idno type=PGDPProjectId>projectID42d1787f0193a</idno>
@@ -43,7 +44,6 @@
         <language id=nl>Nederlands</language>
         <language id=nl-1900>Nederlands (Spelling De Vries-Te Winkel)</language>
         <language id=en>Engels</language>
-        <language id=de>Duits</language>
     </langUsage>
     <textClass>
         <keywords>
@@ -1582,7 +1582,7 @@
 
 <p>De zelfzuchtige Ferdinand dacht niet meer aan de bewezen diensten, en vond den man met zijn vragen lastig. Hij ontving hem wel is waar vriendelijk, maar met dien kouden, onbeduidenden glimlach, die als een zonnestraal bij winterdag over het gelaat gaat, zonder het hart te verwarmen.
 
-<p>Columbus gaf den koning een uitgebreid en nauwkeurig verhaal van zijn laatste reis. Maar geen vroolijken lach, geen traan van deernis kon het meegedeelde afdwingen. De koning was mild met vriendelijke woorden, maar karig, tot wreedheid toe, waar het aankwam op stoffelijke erkenning van de verdiensten of de behoeften van den levensmoeden admiraal.<note n=1>&ldquo;Ik weet niet&rdquo;, schrijft de eerbiedwaardige Las Casas, &ldquo;wat de oorzaak van dezen haat, van dit gemis aan vorstelijke waardigheid bij den koning <pb n=170n>zou kunnen zijn, jegens een man, die hem zulke groote voordeelen bezorgd had, tenzij zijn hart door de valsche getuigenissen, die tegen den admiraal waren ingebracht, van hem was afgekeerd. Personen, die in de gunst van &apos;t hof deelen, hebben mij daarvan een en ander verteld.</note>
+<p>Columbus gaf den koning een uitgebreid en nauwkeurig verhaal van zijn laatste reis. Maar geen vroolijken lach, geen traan van deernis kon het meegedeelde afdwingen. De koning was mild met vriendelijke woorden, maar karig, tot wreedheid toe, waar het aankwam op stoffelijke erkenning van de verdiensten of de behoeften van den levensmoeden admiraal.<note n=1>&ldquo;Ik weet niet&rdquo;, schrijft de eerbiedwaardige Las Casas, &ldquo;wat de oorzaak van dezen haat, van dit gemis aan vorstelijke waardigheid bij den koning <pb n=170>zou kunnen zijn, jegens een man, die hem zulke groote voordeelen bezorgd had, tenzij zijn hart door de valsche getuigenissen, die tegen den admiraal waren ingebracht, van hem was afgekeerd. Personen, die in de gunst van &apos;t hof deelen, hebben mij daarvan een en ander verteld.</note>
 
 <pb n=170><p>Droeve maanden van uitgestelde hoop en bittere teleurstellingen vloden voorbij. De laatste zandkorrels uit het uurglas van het leven begonnen te vloeien. Zijn geest werd minder en door een hevige aanval van de jicht, werd de admiraal opnieuw aan zijn bed gekluisterd. Ter wille van zijn bloedverwanten was hij er bijzonder op gesteld, dat zijn waardigheden erkend, zijn eigendom beschermd zou worden en dat zij, die hij liefhad, voor gebrek bewaard mochten blijven. Toch was hij er veel meer op uit, zijn kinderen een eervollen naam na te laten dan zijn geldelijke verliezen te herstellen. Van zijn sterfbed schreef hij den koning nog, en verzocht dat zijn zoon Diego tot onderkoning benoemd mocht worden, van welke waardigheid hij zelf zoo onrechtvaardig ontzet was geworden.
 
@@ -1691,7 +1691,7 @@
 
 
 <pb n=2>
-<div1 id=ads type=Ads>
+<div1 id=ads type=Advertisements>
 <head>Bibliotheek voor de jeugd,</head>
 <head>Onder leiding van</head>
 <head>J. Versluys.</head>
