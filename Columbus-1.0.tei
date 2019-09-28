@@ -3,7 +3,7 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Columbus, de Ontdekker van Amerika</title>
+<title nfc=0>Columbus, de Ontdekker van Amerika</title>
 <author key="Abbott, John Stevens Cabot" ref="https://viaf.org/viaf/44668604/">John Stevens Cabot Abbott (1805&ndash;1877)</author>
 <respStmt><resp>Translation</resp> <name key="Geraets, J.H." ref="https://viaf.org/viaf/285991828/">J. H. Geraets Jr.</name></respStmt>
 <respStmt><resp>Transcription</resp> <name key="Hellingman, Jeroen">Jeroen Hellingman</name></respStmt>

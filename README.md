@@ -12,6 +12,6 @@ The version maintained in this repository may be slightly out-of-sync with the v
 | Author | John Stevens Cabot Abbott (1805–1877) |
 | Publisher | Project Gutenberg, Urbana, Illinois, USA., 2006-03-28 |
 | Publication date | 2006-03-28 |
-| Availability | Dit eBoek is voor kosteloos gebruik door iedereen overal, met vrijwel geen beperkingen van welke soort dan ook. U mag het kopiëren, weggeven of hergebruiken onder de voorwaarden van de [Project Gutenberg Licentie](https://www.gutenberg.org/license) bij dit eBoek of on-line op [www.gutenberg.org](https://www.gutenberg.org/). This eBook is for the use of anyone anywhere at no cost and with almost no restrictions whatsoever. You may copy it, give it away or re-use it under the terms of the Project Gutenberg License included with this eBook or online at [www.gutenberg.org](https://www.gutenberg.org/). |
+| Availability | Dit eBoek is voor kosteloos gebruik door iedereen overal, met vrijwel geen beperkingen van welke soort dan ook. U mag het kopiëren, weggeven of hergebruiken onder de voorwaarden van de Project Gutenberg Licentie in dit eBoek of on-line op [www.gutenberg.org](https://www.gutenberg.org/). This eBook is for the use of anyone anywhere at no cost and with almost no restrictions whatsoever. You may copy it, give it away or re-use it under the terms of the Project Gutenberg License included with this eBook or online at [www.gutenberg.org](https://www.gutenberg.org/). |
 | Keyword | Columbus, Christopher |
 | PG Ebook Number | [18066](https://www.gutenberg.org/ebooks/18066) |
