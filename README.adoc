@@ -12,6 +12,7 @@ The version maintained in this repository may be slightly out-of-sync with the v
 
 |Title |Columbus, de Ontdekker van Amerika
 |Short title |Columbus
+|Original title |The life of Christopher Columbus
 |Author |John Stevens Cabot Abbott (1805–1877)
 |Translator |J. H. Geraets Jr.
 |Publisher |Project Gutenberg, Urbana, Illinois, USA., 2006-03-28
