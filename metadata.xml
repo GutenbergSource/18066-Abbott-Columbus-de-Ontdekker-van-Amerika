@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<!-- Generated on 2025-10-27T15:28:27Z. -->
 <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
          xmlns:dc="http://purl.org/dc/elements/1.1/">
    <rdf:Description>
       <dc:title>Columbus, de Ontdekker van Amerika</dc:title>
+      <dc:title>Columbus</dc:title>
       <dc:creator>John Stevens Cabot Abbott (1805–1877)</dc:creator>
       <dc:creator>J. H. Geraets Jr.</dc:creator>
       <dc:publisher>Project Gutenberg, Urbana, Illinois, USA., 2006-03-28</dc:publisher>

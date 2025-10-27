@@ -4,8 +4,9 @@
 <fileDesc>
 <titleStmt>
 <title nfc=0>Columbus, de Ontdekker van Amerika</title>
+<title type=short>Columbus</title>
 <author key="Abbott, John Stevens Cabot" ref="https://viaf.org/viaf/44668604/">John Stevens Cabot Abbott (1805&ndash;1877)</author>
-<respStmt><resp>Translation</resp> <name key="Geraets, J.H." ref="https://viaf.org/viaf/285991828/">J. H. Geraets Jr.</name></respStmt>
+<respStmt><resp>Translator</resp> <name key="Geraets, J.H." ref="https://viaf.org/viaf/285991828/">J. H. Geraets Jr.</name></respStmt>
 <respStmt><resp>Transcription</resp> <name key="Hellingman, Jeroen">Jeroen Hellingman</name></respStmt>
 </titleStmt>
 <publicationStmt>
@@ -63,11 +64,22 @@
 <front id=frontmatter>
 <div1 id=cover type=Cover>
 
+
 <p><figure id=cover-image rend="image(images/cover.jpg)">
 <figDesc>Voorkant van de oorspronkelijke uitgave uit 1887.</figDesc>
 </figure>
 
+
+
 <pb>
+<div1 id=titlepage type=TitlePage>
+
+
+<p><figure id=titlepage-image rend="image(images/titlepage.png)">
+<figDesc>Oorspronkelijke titelpagina.</figDesc>
+</figure>
+
+
 <titlePage>
 <docTitle>
 <titlePart>Columbus,</titlePart>
@@ -119,7 +131,7 @@
 <p>Tijdens zijn omzwervingen kwam hij ten laatste te Lissabon, de hoofdstad van Portugal, aan, toen een der beroemdste zeehavens van de wereld. Hij was toen 35 jaren oud.
 
 
-<p><figure id=p005>
+<p><figure id=p005 rend="image(images/p005.png)">
 <head>Columbus in zijn studeerkamer.</head>
 </figure>
 
@@ -181,7 +193,7 @@
 <p>Hij nam zijn zoon Diego mee, scheepte zich te Genua in, en landde na een korte vaart te Palos, een kleine Spaansche zeehaven aan den mond van de Tinto. Ferdinand en Isabella waren toen juist in een oorlog gewikkeld met de Mooren. Beiden bevonden zich toen met hun leger te Cordova, bijna honderd mijlen ten noord-oosten van Palos. Daar al hun krachtsinspanning <pb n=11><pb n=12>voor het voeren van den oorlog noodig was, mocht het oogenblik ongunstig heeten hen te willen overhalen tot een onderneming, die veel geld moest kosten, en daarenboven twijfelachtig was.
 
 
-<p><figure id=p011>
+<p><figure id=p011 rend="image(images/p011.png)">
 <head>De kust nabij Genua, de geboorteplaats van Columbus.</head>
 </figure>
 
@@ -191,7 +203,7 @@
 <p>Zij waren nog maar anderhalve mijl van het dorp Palos af, toen zij bij een hecht steenen klooster kwamen. Diego had honger en dorst, en daarom ging de vader in het klooster, om een beker water en een snede brood voor zijn kind te vragen.
 
 
-<p><figure id=p012>
+<p><figure id=p012 rend="image(images/p012.png)">
 <head>Columbus aan de deur van het klooster.</head>
 </figure>
 
@@ -223,7 +235,7 @@
 <p>Columbus volgde het hof naar Salamanca. Hier werd hij aan den aartsbisschop van Toledo voorgesteld, den grootkardinaal van Spanje. Deze beroemde kerkvorst had zooveel invloed bij den koning en de koningin, dat men hem den derden koning noemde. Meer en meer werd hij zoo overtuigd van de kracht der bewijzen, waarmee Columbus zijn plannen verdedigde, dat hij er in <pb n=15><pb n=16>toestemde hem in de koninklijke tegenwoordigheid te brengen.
 
 
-<p><figure id=p015>
+<p><figure id=p015 rend="image(images/p015.png)">
 <head>Columbus zet zijn plan uiteen.</head>
 </figure>
 
@@ -306,7 +318,7 @@
 <p>Naar het volksbegrip was de onderneming uitermate gevaarlijk, bijna heiligschennend en God verzoekend. Zij werd nog roekeloozer geacht, dan in onze dagen de poging, om met een luchtballon over den oceaan te trekken, zou genoemd worden. Het was derhalve moeilijk, om volk te krijgen. De regeering was dan ook ten slotte genoodzaakt tot geweld over te gaan, en zeelieden tot den kruistocht te dwingen.
 
 
-<p><figure id=p024>
+<p><figure id=p024 rend="image(images/p024.png)">
 <head>De Santa Maria.</head>
 </figure>
 
@@ -356,7 +368,7 @@
 <p>Aan boord van het admiraalschip werden geregeld godsdienstoefeningen gehouden. De admiraal scheen dezen avond bijzonder ernstig gestemd te zijn. Wel was hij altijd ernstig, bezadigd en bedachtzaam, maar nu scheen zijn gemoed overstelpt te zijn door de bewustheid, dat hij nu op het punt stond, om te volvoeren, wat hij levenslang gehoopt had. Op ernstige wijze sprak hij het scheepsvolk toe, bracht in herinnering, hoezeer God hen beschermd had, en verzekerde hun, dat zij naar zijn oordeel nu ongetwijfeld het land naderden, dat hij verwacht had te zullen vinden. Ja, hij geloofde, dat zij nog dienzelfden nacht aan land zouden komen. Hij gaf bevel, om goed wacht te houden, en voegde aan de belooningen van de souvereinen nog de gift van een fluweelen wambuis toe aan hem, die het eerst de kust zien zou.
 
 
-<p><figure id=p029>
+<p><figure id=p029 rend="image(images/p029.png)">
 <head>Columbus op zijn eerste reis.</head>
 
 <p>(<hi>Naar een oude afbeelding</hi>).
@@ -537,7 +549,7 @@
 
 <p>Men vermoedt, dat Columbus het &frac23; deel van de lengte van Cuba had afgelegd. Had hij nog een paar dagen doorgevaren, dan zou hij de westelijke kust bereikt, en niet in den waan verkeerd hebben, dat hij bij het vasteland was.
 
-<p>Twee of drie dagen lang zeilde hij langs de kust voort, zonder zich ergens op te houden, om het binnenland te onderzoeken. Een storm noodzaakte hem een haven binnen te loopen, die hij Puerto del Principe noemde. Volgens zijn gewoonte richtte hij hier een kruis op, en nam in den naam van zijn vorsten plechtig bezit van het land. In de nabijheid lagen vele kleine en zeer mooie eilanden, die hij met de booten onderzocht, en die later bekend werden onder den dichterlijken naam van El Jardim del Roy of den Koningstuin. Aan de golf of baai, die deze eilanden verfraaide, gaf hij den naam van Nuestra Senora. Dichte wouden bedekten deze schilderachtige eilanden, die uit den oceaan het hoofd opstaken. De in alle richtingen loopende en kronkelende doorvaarten, benevens de eenzame inhammen van deze schoone streek werden in latere jaren door zeeroovers onveilig gemaakt, <pb n=48>die wreedheden pleegden, waarvan de opsomming zelfs duivelen zou doen blozen.
+<p>Twee of drie dagen lang zeilde hij langs de kust voort, zonder zich ergens op te houden, om het binnenland te onderzoeken. Een storm noodzaakte hem een haven binnen te loopen, die hij Puerto del Principe noemde. Volgens zijn gewoonte richtte hij hier een kruis op, en nam in den naam van zijn vorsten plechtig bezit van het land. In de nabijheid lagen vele kleine en zeer mooie eilanden, die hij met de booten onderzocht, en die later bekend werden onder den dichterlijken naam van El Jardim del Roy of den Koningstuin. Aan de golf of baai, die deze eilanden verfraaide, gaf hij den naam van Nuestra <corr sic=Senora>Señora</corr>. Dichte wouden bedekten deze schilderachtige eilanden, die uit den oceaan het hoofd opstaken. De in alle richtingen loopende en kronkelende doorvaarten, benevens de eenzame inhammen van deze schoone streek werden in latere jaren door zeeroovers onveilig gemaakt, <pb n=48>die wreedheden pleegden, waarvan de opsomming zelfs duivelen zou doen blozen.
 
 <p>Den 19<hi rend=sup>n</hi> November heesch Columbus alweer de zeilen, omdat hij plan had naar een eiland te gaan, dat omstreeks 60 mijlen oostwaarts lag, en door de inboorlingen Babique werd genoemd. Met zijn niet sterk schip kampte hij een dag en een nacht met tegenwind en een onstuimige zee. Maar ernstiger tegenspoed stond hem te wachten.
 
@@ -634,7 +646,7 @@
 <p>Het vooruitzicht een groote hoeveelheid goud te zullen krijgen, maakte Columbus heel blij. Hij begon zijn schipbreuk als een teeken van goddelijke gunst te beschouwen. In zijn dagboek schreef hij aangaande zijne verwachtingen op dat oogenblik:
 
 
-<p><figure id=p060 rend="float(left)">
+<p><figure id=p060 rend="float(left) image(images/p060.png)">
 <head>Een Spaansch soldaat.</head>
 </figure>
 
@@ -657,7 +669,7 @@
 <head type=label>Zesde Hoofdstuk.</head>
 <head>De terugreis.</head>
 
-<p><figure id=p062>
+<p><figure id=p062 rend="image(images/p062.png)">
 <head>De terugreis.</head>
 </figure>
 
@@ -667,7 +679,7 @@
 <p>Maar te vergeefs had men naar de mijn gezocht. Pinzon kon zich met zijn schip te midden van kleine eilandjes en zandbanken niet vrij bewegen en werd ongerust. Kreeg hij met zijn schip een ongeluk, waardoor het niet meer te gebruiken zou wezen, dan was het bijna onmogelijk, dat hij ooit weer naar Spanje kon terugkeeren. Daarom zette hij weer koers naar Hispaniola, en het is waarschijnlijk, dat hij verlangend naar den admiraal uitzag. Gedurende de scheiding was hij echter een rivier opgevaren, had daar drie weken vertoefd en er door handel met de inboorlingen een groote hoeveelheid goud gekregen. Men zegt, dat hij de eene helft er van voor zich zelf hield, en de andere onder de zeelieden verdeelde, om hun het stilzwijgen op te leggen.
 
 
-<p><figure id=p063 rend="float(right)">
+<p><figure id=p063 rend="float(right) image(images/p063.png)">
 <head>Het eskader.</head>
 </figure>
 
@@ -1308,7 +1320,7 @@
 <p>De overige samenzweerders werden met alle kracht vervolgd, en verscheidenen gevat en opgehangen.
 
 
-<p><figure id=p141>
+<p><figure id=p141 rend="image(images/p141.png)">
 <head>Kasteel van Columbus op San Domingo.</head>
 </figure>
 
@@ -1358,7 +1370,7 @@
 <p>In het begin van October werd Columbus, geboeid als de gemeenste misdadiger, door de straten naar het schip geleid. Het geschreeuw van het grauw volgde hem. Monzo de Villejo, een man van hooge afkomst en een edel karakter, werd met de zorg voor de gevangenen belast. Zoowel hij als de scheepskapitein, Andreas Martin, behandelden den admiraal, gedurende de reis, met den diepsten eerbied. Zeer gaarne zouden zij hem de boeien hebben afgedaan, maar de admiraal wilde dit niet, en zeide trotsch:
 
 
-<p><figure id=p146>
+<p><figure id=p146 rend="image(images/p146.png)">
 <head>Columbus in ketenen.</head>
 </figure>
 
@@ -1614,79 +1626,79 @@
 
 <p rend="align(center)"><ref target=ch1>Moeilijkheden in de jeugd.</ref> <ab type=tocPageNum>3</ab>
 
-<p rend="class(tocArgument)">Afkomst en jeugd. Toestand der tijden. Avonturen van een jong matroos. Zijn studiën. Hij gaat zelf. Bezoek te Lissabon. Wat er van zijn studiën te recht kwam. Geruchten uit andere landen. Zijn groote eerzucht. Hij wendt zich tot het hof van Napels. Koninklijke ontrouw. Zijn huwelijk. Vertrek naar Spanje. Tooneel te Palos. Hij bezoekt het hof van Ferdinand en Isabella. Het vervelende van uitgestelde hoop. Vergadering van de wijsgeeren. Het verbazende besluit.
+<p rend=tocArgument>Afkomst en jeugd. Toestand der tijden. Avonturen van een jong matroos. Zijn studiën. Hij gaat zelf. Bezoek te Lissabon. Wat er van zijn studiën te recht kwam. Geruchten uit andere landen. Zijn groote eerzucht. Hij wendt zich tot het hof van Napels. Koninklijke ontrouw. Zijn huwelijk. Vertrek naar Spanje. Tooneel te Palos. Hij bezoekt het hof van Ferdinand en Isabella. Het vervelende van uitgestelde hoop. Vergadering van de wijsgeeren. Het verbazende besluit.
 
 <p rend="align(center)"><hi rend=sc>Tweede Hoofdstuk</hi>.
 
 <p rend="align(center)"><ref target=ch2>Eerste reis.</ref> <ab type=tocPageNum>17</ab>
 
-<p rend="class(tocArgument)">Columbus te Cordova. Macht van den leenadel. Nieuwe weigering. Terugkeer naar La Rabida. Vernieuwde hoop. Reis van den prior. Volgehouden eischen van Columbus. Onderhoud met Isabella. De wegzending. De terugroeping. Het uur der zegepraal. Vroolijke terugkomst te Palos. Voorbereiding voor den tocht. Zijn karakter. Vertrek van de vloot.
+<p rend=tocArgument>Columbus te Cordova. Macht van den leenadel. Nieuwe weigering. Terugkeer naar La Rabida. Vernieuwde hoop. Reis van den prior. Volgehouden eischen van Columbus. Onderhoud met Isabella. De wegzending. De terugroeping. Het uur der zegepraal. Vroolijke terugkomst te Palos. Voorbereiding voor den tocht. Zijn karakter. Vertrek van de vloot.
 
 <p rend="align(center)"><hi rend=sc>Derde Hoofdstuk</hi>.
 
 <p rend="align(center)"><ref target=ch3>Er wordt land ontdekt.</ref> <ab type=tocPageNum>28</ab>
 
-<p rend="class(tocArgument)">Het muitende scheepsvolk. Het schijnsel van de flambouw. Het verhaal beoordeeld. Landing op San Salvador. Twijfel aan het bestaan van het eiland. Verrukkelijk tooneel. Twee dagen op het eiland. Geschiedenis van den gestorven loods. Handel met de inboorlingen. Hun onschuld en vriendelijkheid. Het eiland wordt onderzocht. Onduidelijkheid van de gebarentaal.
+<p rend=tocArgument>Het muitende scheepsvolk. Het schijnsel van de flambouw. Het verhaal beoordeeld. Landing op San Salvador. Twijfel aan het bestaan van het eiland. Verrukkelijk tooneel. Twee dagen op het eiland. Geschiedenis van den gestorven loods. Handel met de inboorlingen. Hun onschuld en vriendelijkheid. Het eiland wordt onderzocht. Onduidelijkheid van de gebarentaal.
 
 <pb n=174><p rend="align(center)"><hi rend=sc>Vierde Hoofdstuk</hi>.
 
 <p rend="align(center)"><ref target=ch4>Een tocht door de eilanden.</ref> <ab type=tocPageNum>36</ab>
 
-<p rend="class(tocArgument)">Het aantal eilanden. Onrecht hersteld. Minzaamheid van Columbus. Zijn beschrijving van de inlanders. De ontdekking van Concepcion; van <corr sic=Fernandia>Fernandina</corr>. Schoonheid van de natuur. Landing te Exumata. Teleurstelling van Columbus. Onderzoek van de eilanden. Zeden en gewoonten van de bewoners.
+<p rend=tocArgument>Het aantal eilanden. Onrecht hersteld. Minzaamheid van Columbus. Zijn beschrijving van de inlanders. De ontdekking van Concepcion; van <corr sic=Fernandia>Fernandina</corr>. Schoonheid van de natuur. Landing te Exumata. Teleurstelling van Columbus. Onderzoek van de eilanden. Zeden en gewoonten van de bewoners.
 
 <p rend="align(center)"><hi rend=sc>Vijfde Hoofdstuk</hi>.
 
 <p rend="align(center)"><ref target=ch5>Buitengewone lotgevallen.</ref> <ab type=tocPageNum>47</ab>
 
-<p rend="class(tocArgument)">Godsdienstige inzichten. De tuin van den koning. Pinzon loopt weg. Schoonheid van de landstreek. Groote kano&apos;s. Porto Rico, het eiland van de Caraïbiërs. Haïti. Rijke natuurtooneelen. Schrik van de wilden. Het gevangen meisje. Geopend verkeer. Verhaal van Peter Martyr. Bezoek van het opperhoofd. Guacanagari. Punta Santa of Groote rivier. De schipbreuk. Gastvrijheid van Guacanagari. Vermaken van de wilden. Het koninklijk middagmaal Het leven op Haïti. De Caraïbiërs. Toebereidselen voor de terugreis. Het fort.
+<p rend=tocArgument>Godsdienstige inzichten. De tuin van den koning. Pinzon loopt weg. Schoonheid van de landstreek. Groote kano&apos;s. Porto Rico, het eiland van de Caraïbiërs. Haïti. Rijke natuurtooneelen. Schrik van de wilden. Het gevangen meisje. Geopend verkeer. Verhaal van Peter Martyr. Bezoek van het opperhoofd. Guacanagari. Punta Santa of Groote rivier. De schipbreuk. Gastvrijheid van Guacanagari. Vermaken van de wilden. Het koninklijk middagmaal. Het leven op Haïti. De Caraïbiërs. Toebereidselen voor de terugreis. Het fort.
 
 <p rend="align(center)"><hi rend=sc>Zesde Hoofdstuk</hi>.
 
 <p rend="align(center)"><ref target=ch6>De terugreis.</ref> <ab type=tocPageNum>62</ab>
 
-<p rend="class(tocArgument)">De Nina ontmoet de Pinta. Rio de Gracia. Ontmoeting met een wilden stam. Het eerste gevecht. Vrede hersteld. Het leven op zee. Vreeselijke storm. Beloften van den admiraal en het scheepsvolk. Verdriet van Columbus. Het perkament en de doos. Zij bereiken de Azoren. Moeilijkheden op St. Ataria. Voortdurende stormen. Men komt den Taag op. Eerbewijzingen te Lissabon. Hofkuiperijen. Ontvangst te Palos. Opgewondenheid in Spanje. Droevig lot van Pinzon. Columbus aan het Spaansche hof.
+<p rend=tocArgument>De Nina ontmoet de Pinta. Rio de Gracia. Ontmoeting met een wilden stam. Het eerste gevecht. Vrede hersteld. Het leven op zee. Vreeselijke storm. Beloften van den admiraal en het scheepsvolk. Verdriet van Columbus. Het perkament en de doos. Zij bereiken de Azoren. Moeilijkheden op St. Ataria. Voortdurende stormen. Men komt den Taag op. Eerbewijzingen te Lissabon. Hofkuiperijen. Ontvangst te Palos. Opgewondenheid in Spanje. Droevig lot van Pinzon. Columbus aan het Spaansche hof.
 
 <p rend="align(center)"><hi rend=sc>Zevende Hoofdstuk</hi>.
 
 <p rend="align(center)"><ref target=ch7>De tweede reis.</ref> <ab type=tocPageNum>77</ab>
 
-<p rend="class(tocArgument)">Opgewondenheid in Europa. De maliënkolders. Columbus wordt een jaargeld toegekend. Vertelling van het ei. De zegen van den Paus. Godsdienstijver van Isabella. Plannen van Portugal. De nieuwe uitrusting. Algemeene geestdrift. Het uitzeilen van de vloot. De prettige reis. Electrisch natuurverschijnsel. Kruistocht door de Antillen. Verloren in de bosschen. Gevecht tusschen de booten. Porto Rico. De Caraïben. Men nadert Haïti. De golf van Samana. Men komt op La Navidad. Lot van de kolonie.
+<p rend=tocArgument>Opgewondenheid in Europa. De maliënkolders. Columbus wordt een jaargeld toegekend. Vertelling van het ei. De zegen van den Paus. Godsdienstijver van Isabella. Plannen van Portugal. De nieuwe uitrusting. Algemeene geestdrift. Het uitzeilen van de vloot. De prettige reis. Electrisch natuurverschijnsel. Kruistocht door de Antillen. Verloren in de bosschen. Gevecht tusschen de booten. Porto Rico. De Caraïben. Men nadert Haïti. De golf van Samana. Men komt op La Navidad. Lot van de kolonie.
 
 <pb n=175><p rend="align(center)"><hi rend=sc>Achtste Hoofdstuk</hi>.
 
 <p rend="align(center)"><ref target=ch8>Het leven te Hispaniola.</ref> <ab type=tocPageNum>92</ab>
 
-<p rend="class(tocArgument)">Verklaring van Guacanagari. Het opperhoofd verdacht. Ontsnapping van de vrouwelijke gevangene. Duisternis te Navidad. Onderzoekingstochten. De vloot zeilt. De stad Isabella gesticht. Woelig landingstooneel. Teleurgestelde verwachtingen. Tochten van Ojeda. Doortrekking van de vlakten. Lijden in de kolonie. Brief aan de koningen. De slavenzaak. Getuigenis van Henneken. Opstand van Bernal Dias. Tocht naar de bergen. Levendige beschrijving.
+<p rend=tocArgument>Verklaring van Guacanagari. Het opperhoofd verdacht. Ontsnapping van de vrouwelijke gevangene. Duisternis te Navidad. Onderzoekingstochten. De vloot zeilt. De stad Isabella gesticht. Woelig landingstooneel. Teleurgestelde verwachtingen. Tochten van Ojeda. Doortrekking van de vlakten. Lijden in de kolonie. Brief aan de koningen. De slavenzaak. Getuigenis van Henneken. Opstand van Bernal Dias. Tocht naar de bergen. Levendige beschrijving.
 
 <p rend="align(center)"><hi rend=sc>Negende Hoofdstuk</hi>.
 
 <p rend="align(center)"><ref target=ch9>Onderzoek van de kusten van Cuba.</ref> <ab type=tocPageNum>107</ab>
 
-<p rend="class(tocArgument)">Het fort St. Thomas. Buitensporige verwachtingen van de Spanjaarden. De onderzoekingstocht. Het gevangennemen van de dieven. Begin van den zeetocht. De haven van Guatanamo. Belangrijk voorval met de Indianen. Jamaïca. Zijn grootte en schoonheid. Zeetooneel. Gebeurtenissen op Santa Gloria. Inlandsche kano&apos;s. Gebeurtenissen op reis. Oordeel van Van Humboldt. De beslissing. Het pijnboomen-eiland. De terugkeer naar Hispaniola. Voorvallen op de reis.
+<p rend=tocArgument>Het fort St. Thomas. Buitensporige verwachtingen van de Spanjaarden. De onderzoekingstocht. Het gevangennemen van de dieven. Begin van den zeetocht. De haven van Guatanamo. Belangrijk voorval met de Indianen. Jamaïca. Zijn grootte en schoonheid. Zeetooneel. Gebeurtenissen op Santa Gloria. Inlandsche kano&apos;s. Gebeurtenissen op reis. Oordeel van Van Humboldt. De beslissing. Het pijnboomen-eiland. De terugkeer naar Hispaniola. Voorvallen op de reis.
 
 <p rend="align(center)"><hi rend=sc>Tiende Hoofdstuk</hi>.
 
 <p rend="align(center)"><ref target=ch10>De terugreis naar Spanje, en de derde reis.</ref> <ab type=tocPageNum>121</ab>
 
-<p rend="class(tocArgument)">Aankomst van Bartholomeus Columbus. Beleedigingen van Margarite. Samenzwering tegen Columbus. Vriendschap van Guacanagari. Daad van Ojeda. De inlanders slaven. Een bloedige slag. Heerschzucht van Columbus. Zending van Juan Aguado. De terugreis naar Spanje. Vervelende maanden van teleurstelling. Noodlottige viering van hartstochten. De derde reis begonnen. Lotgevallen op de reis. Het bestuur van Bartholomeus Columbus. Regeeringloosheid op Hispaniola.
+<p rend=tocArgument>Aankomst van Bartholomeus Columbus. Beleedigingen van Margarite. Samenzwering tegen Columbus. Vriendschap van Guacanagari. Daad van Ojeda. De inlanders slaven. Een bloedige slag. Heerschzucht van Columbus. Zending van Juan Aguado. De terugreis naar Spanje. Vervelende maanden van teleurstelling. Noodlottige viering van hartstochten. De derde reis begonnen. Lotgevallen op de reis. Het bestuur van Bartholomeus Columbus. Regeeringloosheid op Hispaniola.
 
 <p rend="align(center)"><hi rend=sc>Elfde Hoofdstuk</hi>.
 
 <p rend="align(center)"><ref target=ch11>De terugreis naar Spanje, en de vierde reis.</ref> <ab type=tocPageNum>137</ab>
 
-<p rend="class(tocArgument)">De opstand van Roldan. Verzoenende voorstellen van Columbus. Dubbelzinnigheid van Columbus. De tocht van Ojeda. Regeeringloosheid op Haïti. De forten. De liefde van &apos;t volk wordt minder. Bobadilla tot gemachtigde benoemd. Maatregelen van Bobadilla. Columbus in boeien. Zijn ontvangst bij den koning en de koningin. Toebereidselen tot de vierde reis. Het uitwendige van de reis. Ontvangst van Columbus op San Domingo. De windhoos. Hij bereikt Honduras. De kruistocht langs de kust. Gedrag van de Spaansche zeelieden. De kolonie verwoest. Ontvluchting naar Jamaïca.
+<p rend=tocArgument>De opstand van Roldan. Verzoenende voorstellen van Columbus. Dubbelzinnigheid van Columbus. De tocht van Ojeda. Regeeringloosheid op Haïti. De forten. De liefde van &apos;t volk wordt minder. Bobadilla tot gemachtigde benoemd. Maatregelen van Bobadilla. Columbus in boeien. Zijn ontvangst bij den koning en de koningin. Toebereidselen tot de vierde reis. Het uitwendige van de reis. Ontvangst van Columbus op San Domingo. De windhoos. Hij bereikt Honduras. De kruistocht langs de kust. Gedrag van de Spaansche zeelieden. De kolonie verwoest. Ontvluchting naar Jamaïca.
 
 <pb n=176><p rend="align(center)"><hi rend=sc>Twaalfde Hoofdstuk</hi>.
 
 <p rend="align(center)"><ref target=ch12>De schipbreuk op Jamaïca.</ref> <ab type=tocPageNum>154</ab>
 
-<p rend="class(tocArgument)">Onderzoek van &apos;t eiland. Heldhaftige bedrijven van Mendez. Geestelijk lijden van Columbus. De samenzwering van de gebroeders Porras. Rampen van de oproermakers. Strooptocht door het eiland. Irving&apos;s getuigenis. Vertelling van de maansverduistering. Vreemde tocht van Escobar. Reisrampen. Het eiland Navasa. Het verhaal van Mendez. Laag gedrag van Ovando. Heldenmoed van Mendez. Einde van den opstand. Hun terugkomst.
+<p rend=tocArgument>Onderzoek van &apos;t eiland. Heldhaftige bedrijven van Mendez. Geestelijk lijden van Columbus. De samenzwering van de gebroeders Porras. Rampen van de oproermakers. Strooptocht door het eiland. Irving&apos;s getuigenis. Vertelling van de maansverduistering. Vreemde tocht van Escobar. Reisrampen. Het eiland Navasa. Het verhaal van Mendez. Laag gedrag van Ovando. Heldenmoed van Mendez. Einde van den opstand. Hun terugkomst.
 
 <p rend="align(center)"><hi rend=sc>Dertiende Hoofdstuk</hi>.
 
 <p rend="align(center)"><ref target=ch13>De slottooneelen van het leven.</ref> <ab type=tocPageNum>165</ab>
 
-<p rend="class(tocArgument)">De misdaden van Ovando. Ontvolking van het eiland. Getuigenis van Irving. De redding. Ontvangst op San Domingo. Het medelijden van Columbus met de inboorlingen. Ziekte en lijden van Isabella. Dood en begrafenis. Brieven van Columbus. Bezoek aan het hof. Koele ontvangst. Zijn laatste wil. Het sterftooneel. De begrafenis. Zijn karakter.
+<p rend=tocArgument>De misdaden van Ovando. Ontvolking van het eiland. Getuigenis van Irving. De redding. Ontvangst op San Domingo. Het medelijden van Columbus met de inboorlingen. Ziekte en lijden van Isabella. Dood en begrafenis. Brieven van Columbus. Bezoek aan het hof. Koele ontvangst. Zijn laatste wil. Het sterftooneel. De begrafenis. Zijn karakter.
 
 
 
@@ -1699,7 +1711,7 @@
 
 <p>1. <hi rend=bold>Robinson Crusoe;</hi> uit het Engelsch vertaald door <abbr expan=Mejuffrouw>Mej.</abbr> <hi rend=sc>A. van Schouwenburg</hi>, te Haarlem.
 
-<p>2. <hi rend=bold>Columbus, de ontdekker van Amerika;</hi> uit het Engelsch vertaald door <hi rend=sc>J.H. Geraets Jr.</hi>, te Velsen.
+<p>2. <hi rend=bold><xref url="pg:18066">Columbus, de ontdekker van Amerika</xref>;</hi> uit het Engelsch vertaald door <hi rend=sc>J.H. Geraets Jr.</hi>, te Velsen.
 
 <p>3. DANA, <hi rend=bold>Twee jaar voor de mast;</hi> uit het Engelsch vertaald door <hi rend=sc>J. v.d. Hoeve</hi>, te IJmuiden.
 
