@@ -19,5 +19,5 @@ The version maintained in this repository may be slightly out-of-sync with the v
 |Availability |Dit eBoek is voor kosteloos gebruik door iedereen overal, met vrijwel geen beperkingen van welke soort dan ook. U mag het kopiëren, weggeven of hergebruiken onder de voorwaarden van de Project Gutenberg Licentie in dit eBoek of on-line op https://www.gutenberg.org/[www.gutenberg.org]. This eBook is for the use of anyone anywhere at no cost and with almost no restrictions whatsoever. You may copy it, give it away or re-use it under the terms of the Project Gutenberg License included with this eBook or online at https://www.gutenberg.org/[www.gutenberg.org].
 |Keyword |Columbus, Christopher
 |PG Ebook Number |https://www.gutenberg.org/ebooks/18066[18066]
-|QR Code for download a|image::Processed/images/qr18066.png[QR code,148,148]
+|QR Code for download a|image::Processed/images@1/qr18066.png[QR code,148,148]
 |===
